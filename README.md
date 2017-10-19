@@ -8,7 +8,7 @@ This project came to me as 7 CSV files for the treatment group, and 7 CSV files 
 1. Create a codebook for each file, this included some descriptive statistics (so far I only have the Enrollment file).
 2. Once the data is understood begin to clean the data so it can be used.
 3. Create some more in-depth descriptive statistics from the cleaned data.
-4. Create some inferred statistics (t-test example uploaded).
+4. Create some inferred statistics (t-test example uploaded, χ<sup>2 </sup> coming).
 > *When I first started to work on this project I thought I should do the work in R since I had an example to go off.  
 After making some progress I thought Python/Jupyter Notebooks may present better, so I began to work on that. 
 Also SQL provided a comfort zone for me and I was glad to find the **sqldf** library.  
